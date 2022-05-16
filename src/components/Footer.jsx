@@ -6,7 +6,7 @@ function Footer() {
         <footer 
         style={{ width: '100%', backgroundColor: 'wheat' }}
         className="footer">
-            <p>&copy; Stephanie, 2022</p>
+            <p>&copy; Stephanie Sanchez, 2022</p>
         </footer>
     )
 }
